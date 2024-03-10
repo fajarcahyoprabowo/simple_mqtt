@@ -17,6 +17,6 @@ Aplikasi yang dibuat menggunakan flutter dengan state manajemen BloC untuk melak
 
 ## Menjalankan Aplikasi
 
-- Buka Android Emulator atau Simulator iOS
+- Buka Android Emulator
 - Jalankan `flutter pub run build_runner build --delete-conflicting-outputs`
 - Jalankan `flutter run`
