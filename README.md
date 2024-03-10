@@ -2,6 +2,8 @@
 
 Aplikasi yang dibuat menggunakan flutter dengan state manajemen BloC untuk melakukan koneksi ke MQTT broker. Aplikasi ini memiliki fitur untuk subscribe/unsubscribe topik, dan mengirim/menerima pesan.
 
+![App Record](https://github.com/fajarcahyoprabowo/simple_mqtt/blob/master/gif/mqtt_broker_record.gif?raw=true)
+
 ## Requirements
 
 - Flutter: >=3.19.2
