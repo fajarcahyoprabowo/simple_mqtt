@@ -11,9 +11,9 @@ Aplikasi yang dibuat menggunakan flutter dengan state manajemen BloC untuk melak
 
 ## Platform yang Didukung
 
-| Android | iOS | Web | Windows | MacOS | Linux |
-| :-----: | :-: | :-: | :-----: | :---: | :---: |
-|   ✅    | ❌  | ❌  |   ❌    |  ❌   |  ✅   |
+| Android | iOS | Linux |
+| :-----: | :-: | :---: |
+|   ✅    | ✅  |  ✅   |
 
 ## Menjalankan Aplikasi
 
